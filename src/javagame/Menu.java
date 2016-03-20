@@ -2,6 +2,7 @@ package javagame;
 import org.newdawn.slick.*;
 import org.newdawn.slick.state.*;
 import org.lwjgl.input.Mouse;
+//state based java game
 public class Menu extends BasicGameState
 {	
 	Image playnow;
